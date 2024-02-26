@@ -1,0 +1,30 @@
+{
+  "name": "bocil-kematian",
+  "version": "1.0.0",
+  "description": "bocil ff",
+  "main": "index.js",
+  "scripts": {
+    "test": "free fire"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/jalu017/bocil-kematian.git)"
+  },
+  "keywords": [
+    "free",
+    "fire"
+  ],
+  "author": "jalu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "popper.js": "^1.16.1",
+    "webpack": "^5.90.3"
+  },
+  "devDependencies": {
+    "core.js": "^0.4.2",
+    "eslint": "^8.57.0",
+    "sass": "^1.71.1"
+  }
+}
