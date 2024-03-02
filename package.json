@@ -1,6 +1,6 @@
 {
   "name": "bocil-kematian",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "bocil ff",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/jalu017/bocil-kematian.git)"
+    "url": "https://github.com/jalu017/bocil-kematian.git"
   },
   "keywords": [
     "free",
@@ -21,6 +21,7 @@
     "lodash": "^4.17.21",
     "popper.js": "^1.16.1",
     "webpack": "^5.90.3"
+    "dashmai": "^1.0.0"
   },
   "devDependencies": {
     "core.js": "^0.4.2",
